@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Mind in the World"
+  subtitle: "An essay collection exploring science, philosophy, and the experience of being human today"
+  author: "Devin Merullo, Ph.D."
+  chapters:
+    - index.md
+    - compass-and-candle.md
+    - self.md
+    - movement.md
+    - tao-punk.md
+    - vms.md
+    - individuation.md
+    - zelda-timeline.md
+    - representation.md
+    - monster.md
+    - anxiety.md
+    - psychology.md
+  
+format:
+  pdf:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+    number-sections: true
+    page-layout: full
+    merge: true
+    css: styles.css
