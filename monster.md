@@ -2,9 +2,9 @@
 
 I often think this world is all too random, even though in many cases it seems so fine-tuned. It would be too cliché to say that the truth is somewhere in the middle. Maybe that's just how it is, though, and it's not worth asking any further. One branch of mathematics has essentially reached this conclusion, which unfortunately just makes me want to know why that is. Especially for the Monster.
 
-All the sources I've encountered say that one of the greatest achievements of 20th century mathematics is the classification of the "finite simple groups." An intriguing, yet also frustrating, aspect of math to me is that it uses its own peculiar language. I understand each of the words in that phrase individually, but in math it means something very specific that doesn't align with everyday uses of those words. We have to start with the last word here-- group-- to get at the root of this.
+All the sources I've encountered say that one of the greatest achievements of 20th century mathematics is the classification of the "finite simple groups." An intriguing, yet also frustrating, aspect of math to me is that it uses its own peculiar language. I understand each of the words in that phrase individually, but in math it means something very specific that doesn't align with everyday uses of those words. We have to start with the last word here—group—to get at the root of this.
 
-Let's say you're quite tall and looking down at a square table below you (or you're quite short, and you're looking down at an even shorter table). You want to rotate this table so that it will still look like how you see it right now in this starting position. Out of all the permutations you try-- and you try *all* of them-- there are exactly four that result in it looking like its original shape. 
+Let's say you're quite tall and looking down at a square table below you (or you're quite short, and you're looking down at an even shorter table). You want to rotate this table so that it will still look like how you see it right now in this starting position. Out of all the permutations you try—and you try *all* of them—there are exactly four that result in it looking like its original shape. 
 
 ![](files/symmetry.png)
 

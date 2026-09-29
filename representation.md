@@ -18,11 +18,11 @@ His point here, despite extolling the merits of experimentation in the 2014 inte
 
 *This topic isn't new. Discourses favoring rationalism, empiricism, or some synthesis of the two have been going on in multiple languages since at least Descartes, Hume, and Kant (spanning 1596-1804).*
 
-I get where the frustration comes from-- much of psychology and cognitive science seems too far removed from the underlying brain function to be falsifiable, and you quickly run into situations where people compete more on the strength of their prose and argumentation than experimental validation. I also resonate with the need for higher-level synthesis, because otherwise you get an opposite situation where laboratories produce data in silos with a lost plot. 
+I get where the frustration comes from—much of psychology and cognitive science seems too far removed from the underlying brain function to be falsifiable, and you quickly run into situations where people compete more on the strength of their prose and argumentation than experimental validation. I also resonate with the need for higher-level synthesis, because otherwise you get an opposite situation where laboratories produce data in silos with a lost plot. 
 
 David Marr, in my opinion, best resolves this conundrum in the first chapter of his 1982 book *Vision*, where he delineates information processing into three streams. The middle level, the representation of information, most closely relates to the neuroscience problem raised above. Marr illustrates multiple ways to represent numbers, such as with Arabic numerals (digits 0-9), binary numerals (digits 0-1), or Roman numerals (I, V, X, etc.). While the underlying mathematics doesn't differ with the representation, the information conveyed *does*. The number 37 in Arabic numerals indicates that the digits are built from powers of 10, while the same amount written in binary (100101) reveals the use of powers of 2.[^binary]
 
-Marr notes that any attempt to abstract information carries some trade-off coupled to its advantages. While the Arabic numerals are great for human mental arithmetic-- and proved to be much more useful for calculations than Roman numerals-- binary numerals work better in digital (or silicone) contexts. The information gained for one purpose leads to information loss for another. 
+Marr notes that any attempt to abstract information carries some trade-off coupled to its advantages. While the Arabic numerals are great for human mental arithmetic—and proved to be much more useful for calculations than Roman numerals—binary numerals work better in digital (or silicone) contexts. The information gained for one purpose leads to information loss for another. 
 
 I think this is the crux of the issue that concerns Ball. Neuroscience represented by rigorous experimentation produces quantifiable, replicable results in particular domains, at the expense of transfer across those domains. When represented by theoretical models, neuroscience can generate unifying, cross-domain explanations and predictions, though often with low resolution for any specific mechanism. With Marr's framework in mind, these approaches shouldn't be viewed in opposition, except for where the contradictions would be clarifying.
 
@@ -34,13 +34,13 @@ I bring this topic up because for this world we find ourselves in, we, as humans
 
 [^hopkins]: [https://jscholarship.library.jhu.edu/items/8fc3536f-478e-4572-b326-109418c94724](https://jscholarship.library.jhu.edu/items/8fc3536f-478e-4572-b326-109418c94724)
 [^umass]: [https://www.youtube.com/watch?v=nFf3s5K4vEg](https://www.youtube.com/watch?v=nFf3s5K4vEg)
-[^binary]: Shown below:
-	- = (3 × 10<sup>1</sup>) + (7 × 10<sup>0</sup>)
-	- = (3 × 10) + (7 × 1)
-	- = 30 + 7
-	- = 37
-	- = 100101
-	-  = (1 × 2<sup>5</sup>) + (0 × 2<sup>4</sup>) + (0 × 2<sup>3</sup>) + (1 × 2<sup>2</sup>) + (0 × 2<sup>1</sup>) + (1 × 2<sup>0</sup>) 
-	- = (1 × 32) + (0 × 16) + (0 × 8) + (1 × 4) + (0 × 2) + (1 × 1)
-	- = 32 + 0 + 0 + 4 + 0 + 1
+[^binary]: Shown below:  
+	- = (3 × 10<sup>1</sup>) + (7 × 10<sup>0</sup>)  
+	- = (3 × 10) + (7 × 1)  
+	- = 30 + 7  
+	- = 37  
+	- = 100101  
+	-  = (1 × 2<sup>5</sup>) + (0 × 2<sup>4</sup>) + (0 × 2<sup>3</sup>) + (1 × 2<sup>2</sup>) + (0 × 2<sup>1</sup>) + (1 × 2<sup>0</sup>)  
+	- = (1 × 32) + (0 × 16) + (0 × 8) + (1 × 4) + (0 × 2) + (1 × 1)  
+	- = 32 + 0 + 0 + 4 + 0 + 1  
 	- = 37
